@@ -1,7 +1,7 @@
 {
   "name": "ButterCMS VueJS Starter Project ",
   "description": "Drop-in proof-of-concept VueJs app, fully integrated with your ButterCMS account.",
-  "repository": "https://github.com/ButterCMS/vuejs-starter-buttercms",
+  "repository": "https://github.com/ronnidc/vue3-with-buttercms",
   "logo": "https://cdn.buttercms.com/R3fbtvoRT2CqEQSmk8hb",
   "keywords": ["Vue.js", "buttercms", "cms", "blog"],
   "buildpacks": [
